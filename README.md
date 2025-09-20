@@ -7,6 +7,6 @@ However, ⚠️ **it's better to do the steps manually first** so you understand
 Once you are confident, you can run the script below in **Google Cloud Shell**:
 
 ```bash
-curl -LO https://raw.githubusercontent.com/HarukiDev/Exploring-Cost-optimization-for-GKE-Virtual-Machines---GSP-767/main/setup.sh
+curl -LO https://raw.githubusercontent.com/HarukiDev/Exploring_Cost_optimization_for_GKE_Virtual_Machines---GSP-767/main/setup.sh
 sudo chmod +x setup.sh
 ./setup.sh
