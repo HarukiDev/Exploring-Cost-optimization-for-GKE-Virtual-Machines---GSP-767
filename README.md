@@ -1,6 +1,6 @@
 # Exploring Cost optimization for GKE Virtual Machines - GSP767
 
-# 🚀 Exploring Cost Optimization for GKE Virtual Machines (GSP-767)
+## 🚀 Exploring Cost Optimization for GKE Virtual Machines (GSP-767)
 
 This lab provides a setup script to quickly configure the required resources.  
 However, ⚠️ **it's better to do the steps manually first** so you understand what’s happening.  
