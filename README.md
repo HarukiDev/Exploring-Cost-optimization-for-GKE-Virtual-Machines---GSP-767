@@ -1,6 +1,6 @@
 # Exploring Cost optimization for GKE Virtual Machines - GSP767
 lab : 
-https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cloudskillsboost.google/paths/13/course_templates/655/labs/576998&ved=2ahUKEwih9dj__OePAxX4i2MGHSd3CXYQFnoECBgQAQ&usg=AOvVaw30sA_YXl203fllF3sJPADu
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cloudskillsboost.google/paths/13/course_templates/655/labs/576998
 
 ## 🚀 Exploring Cost Optimization for GKE Virtual Machines (GSP-767)
 
