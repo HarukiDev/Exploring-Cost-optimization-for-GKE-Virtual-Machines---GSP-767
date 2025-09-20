@@ -1,4 +1,4 @@
-# Exploring-Cost-optimization-for-GKE-Virtual-Machines---GSP-767
+# Exploring Cost optimization for GKE Virtual Machines - GSP767
 
 # 🚀 Exploring Cost Optimization for GKE Virtual Machines (GSP-767)
 
