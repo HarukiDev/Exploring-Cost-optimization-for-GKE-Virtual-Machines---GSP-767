@@ -3,7 +3,7 @@ lab :
 [GSP767](https://www.cloudskillsboost.google/paths/13/course_templates/655/labs/576998)
 
 
-## 🚀 Quick Solution
+## Quick Solution
 
 This lab provides a setup script to quickly configure the required resources.  
 However, ⚠️ **it's better to do the steps manually first** so you understand what’s happening.  
