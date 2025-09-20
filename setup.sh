@@ -122,4 +122,4 @@ echo -e "\033[1;33mExamine subnet + flow logs:\033[0m (you can just click the li
 echo -e "\033[1;34mhttps://console.cloud.google.com/networking/networks/details/default?project=$PROJECT_ID&pageTab=SUBNETS\033[0m"
 echo
 echo -e "\033[1;33mBigQuery VPC Flow Logs dataset:\033[0m"
-echo -e "\033[1;34mhttps://console.cloud.google.com/bigquery?project=$PROJECT_ID&ws=!1m5!1m4!4m3!1s$PROJECT_ID!2scompute_googleapis_com_vpc_flows\033[0m"
+echo -e "\033[1;34mhttps://console.cloud.google.com/bigquery?project=$PROJECT_ID&ws=!1m4!1m3!3s$PROJECT_ID\033[0m"
