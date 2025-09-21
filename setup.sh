@@ -126,3 +126,6 @@ echo -e "\033[1;34mhttps://console.cloud.google.com/logs/query;query=resource.ty
 echo
 echo -e "\033[1;33mBigQuery VPC Flow Logs dataset:\033[0m"
 echo -e "\033[1;34mhttps://console.cloud.google.com/bigquery?project=$PROJECT_ID&ws=!1m4!1m3!3s$PROJECT_ID\033[0m"
+echo
+echo
+echo -e "\033[0;36mNote:\033[0m When you run the query from the lab, you might get \033[1;31mNULL\033[0m results in all columns. That’s fine—just move on to the next step."
